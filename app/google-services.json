@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "65966446424",
+    "firebase_url": "https://aplicaciomusicainigoreal.firebaseio.com",
+    "project_id": "aplicaciomusicainigoreal",
+    "storage_bucket": "aplicaciomusicainigoreal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65966446424:android:5c54b9fb2a704ad3",
+        "android_client_info": {
+          "package_name": "com.example.inigo.aplicaciomusicainigoreal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65966446424-lpfqrpostg2kgsu4kqd75j51p1eacvks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.inigo.aplicaciomusicainigoreal",
+            "certificate_hash": "7a6abc25b702c5669d23966fe89789b69b942b2d"
+          }
+        },
+        {
+          "client_id": "65966446424-4vj8m0baedr3ri6pairmv2och334799c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEhsmxkbtb8ZthxIGzJAFtw1cA73CsB48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65966446424-4vj8m0baedr3ri6pairmv2och334799c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
